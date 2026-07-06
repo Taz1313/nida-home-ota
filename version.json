@@ -1,6 +1,33 @@
 {
-  "versionCode": 1147,
-  "versionName": "main-1147-b0da205",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1147-1/nida-home-release.apk",
-  "sha256": "45cbf831acbaa33b0b8a0e79b477fb55dda83a0683cb3dc5a73b521ff20e8492"
+  "versionCode": 1148,
+  "versionName": "main-1148-5448e5b",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1148-1/nida-home-release.apk",
+  "sha256": "93049bd4c4c4aec0ae80e1167b6ef436c6d5863e573e69098e020e1e43d80d91",
+  "notes": {
+    "fr": [
+      "Corrections de bugs et améliorations de stabilité",
+      "Nouveau tutoriel : installer l'application compagnon sur votre téléphone",
+      "Ajout de nouveaux contenus Nida"
+    ],
+    "en": [
+      "Bug fixes and stability improvements",
+      "New tutorial: install the companion app on your phone",
+      "New Nida content added"
+    ],
+    "ar": [
+      "إصلاح أخطاء وتحسين الاستقرار",
+      "شرح جديد: تثبيت التطبيق المرافق على هاتفك",
+      "إضافة محتوى جديد إلى Nida"
+    ],
+    "tr": [
+      "Hata düzeltmeleri ve kararlılık iyileştirmeleri",
+      "Yeni eğitim: yardımcı uygulamayı telefonunuza yükleyin",
+      "Yeni Nida içerikleri eklendi"
+    ],
+    "de": [
+      "Fehlerbehebungen und Stabilitätsverbesserungen",
+      "Neue Anleitung: Begleit-App auf dem Telefon installieren",
+      "Neue Nida-Inhalte hinzugefügt"
+    ]
+  }
 }

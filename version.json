@@ -1,8 +1,8 @@
 {
-  "versionCode": 1151,
-  "versionName": "main-1151-e6de700",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1151-1/nida-home-release.apk",
-  "sha256": "fca0cdc38e2e4ed411efc929c20ccd0a5a3150e436482ba3cb25aed23bc36160",
+  "versionCode": 1152,
+  "versionName": "main-1152-8e39c57",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1152-1/nida-home-release.apk",
+  "sha256": "e48286936ba53460d3f2b0d3f7401203e3d8bcb27b563a477b0fe6525ecb27ec",
   "notes": {
     "fr": [
       "Corrections de bugs et améliorations de stabilité",

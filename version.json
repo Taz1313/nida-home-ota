@@ -1,7 +1,38 @@
 {
-  "versionCode": 1156,
-  "versionName": "main-1156-61ca036",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1156-1/nida-home-release.apk",
-  "sha256": "941c42ddfe4bee8f54ca4ed9f92538d733358b1a41b5a2c406ed91eb7f08ea47",
-  "notes": {}
+  "versionCode": 1157,
+  "versionName": "main-1157-5acd2a0",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1157-1/nida-home-release.apk",
+  "sha256": "e8448062d7299950af7c994bada3fe0dd63e3fe9501257c84996bbf89c6a67d1",
+  "notes": {
+    "fr": [
+      "Une météo entièrement repensée, plus précise et fidèle aux conditions réelles.",
+      "Des transitions plus douces entre ciel clair, nuages, pluie, brouillard, neige et orage.",
+      "De nouveaux effets réalistes pour la pluie sur la vitre, les éclairs, le brouillard et la neige.",
+      "Les éclaircies pendant une averse et la brume ensoleillée sont désormais prises en compte."
+    ],
+    "en": [
+      "A fully redesigned weather experience that is more accurate and faithful to real conditions.",
+      "Smoother transitions between clear skies, clouds, rain, fog, snow and thunderstorms.",
+      "New realistic effects for rain on glass, lightning, fog and snow.",
+      "Sunny showers and sunlit mist are now represented naturally."
+    ],
+    "ar": [
+      "تجربة طقس جديدة بالكامل، أكثر دقة وواقعية حسب الظروف الفعلية.",
+      "انتقالات أكثر سلاسة بين السماء الصافية والغيوم والمطر والضباب والثلج والعواصف الرعدية.",
+      "مؤثرات واقعية جديدة لقطرات المطر على الزجاج والبرق والضباب والثلج.",
+      "يتم الآن عرض زخات المطر المشمسة والضباب المضيء بشكل طبيعي."
+    ],
+    "de": [
+      "Eine vollständig überarbeitete Wetterdarstellung, präziser und näher an den tatsächlichen Bedingungen.",
+      "Sanftere Übergänge zwischen klarem Himmel, Wolken, Regen, Nebel, Schnee und Gewitter.",
+      "Neue realistische Effekte für Regentropfen auf Glas, Blitze, Nebel und Schnee.",
+      "Sonnenschauer und sonniger Dunst werden jetzt natürlich dargestellt."
+    ],
+    "tr": [
+      "Gerçek koşullara daha sadık ve daha hassas, tamamen yenilenmiş hava durumu deneyimi.",
+      "Açık hava, bulut, yağmur, sis, kar ve fırtına arasında daha yumuşak geçişler.",
+      "Camdaki yağmur damlaları, şimşek, sis ve kar için yeni gerçekçi efektler.",
+      "Güneşli sağanaklar ve güneşli pus artık doğal biçimde gösteriliyor."
+    ]
+  }
 }

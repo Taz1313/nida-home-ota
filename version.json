@@ -1,7 +1,43 @@
 {
-  "versionCode": 1166,
-  "versionName": "main-1166-4acaaac",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1166-1/nida-home-release.apk",
-  "sha256": "d18c4b4f9b2bb7a24a0db3a96e37d08041130f6d19fd28ee557090dc3433ce52",
-  "notes": {}
+  "versionCode": 1200,
+  "versionName": "main-1200-33c3d86",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1200-1/nida-home-release.apk",
+  "sha256": "dd39883a67f85e2451761c3268153c6ba31f3f4b449adaba76830cff7b4d1ef8",
+  "notes": {
+    "fr": [
+      "السلام عليكم ورحمة الله وبركاته",
+      "Nouvel espace Activités : commencez par l’apprentissage de l’alphabet arabe.",
+      "De nombreux correctifs, notamment la suppression durable des bandes noires en haut et en bas de l’écran.",
+      "À VENIR — Histoires du Prophète Muḥammad ﷺ et apprentissage de l’écriture des mots.",
+      "بارك الله فيكم"
+    ],
+    "en": [
+      "السلام عليكم ورحمة الله وبركاته",
+      "New Activities space: start by learning the Arabic alphabet.",
+      "Many fixes, including the permanent removal of the black bars at the top and bottom of the screen.",
+      "COMING SOON — Stories of the Prophet Muhammad ﷺ and learning to write words.",
+      "بارك الله فيكم"
+    ],
+    "ar": [
+      "السلام عليكم ورحمة الله وبركاته",
+      "مساحة جديدة للأنشطة: ابدؤوا الآن بتعلّم الأبجدية العربية.",
+      "إصلاحات متعددة، من بينها إزالة الشريطين الأسودين أعلى الشاشة وأسفلها بشكل دائم.",
+      "قريبًا — قصص النبي محمد ﷺ وتعلّم كتابة الكلمات.",
+      "بارك الله فيكم"
+    ],
+    "tr": [
+      "السلام عليكم ورحمة الله وبركاته",
+      "Yeni Etkinlikler alanı: Arap alfabesini öğrenmeye hemen başlayın.",
+      "Ekranın üst ve alt kısmındaki siyah şeritlerin kalıcı olarak kaldırılması dâhil birçok düzeltme.",
+      "YAKINDA — Peygamberimiz Muhammed ﷺ’in kıssaları ve kelime yazma çalışmaları.",
+      "بارك الله فيكم"
+    ],
+    "de": [
+      "السلام عليكم ورحمة الله وبركاته",
+      "Neuer Bereich „Aktivitäten“: Lernen Sie zuerst das arabische Alphabet.",
+      "Zahlreiche Korrekturen, darunter die dauerhafte Entfernung der schwarzen Balken am oberen und unteren Bildschirmrand.",
+      "DEMNÄCHST — Geschichten über den Propheten Muhammad ﷺ und Übungen zum Schreiben von Wörtern.",
+      "بارك الله فيكم"
+    ]
+  }
 }

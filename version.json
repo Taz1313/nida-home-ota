@@ -1,43 +1,7 @@
 {
-  "versionCode": 1202,
-  "versionName": "main-1202-bbf18ec",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1202-1/nida-home-release.apk",
-  "sha256": "1a5c1bdb1802f64d8d4b647272b0488d86980f821a54861a1990f27971b9bcc4",
-  "notes": {
-    "fr": [
-      "Des horaires de prière au plus juste : ajustez désormais chaque prière individuellement lorsque le calcul automatique doit être affiné pour correspondre aux horaires de votre mosquée. De nouvelles règles améliorent également le calcul de Fajr et d’Isha dans les régions situées en haute latitude.",
-      "Quatre mosquées emblématiques rejoignent les décors Nida Home, avec une atmosphère qui évolue du jour à la nuit : Djamaâ El-Djazaïr (Algérie - Alger), Grande Mosquée de Kairouan (Tunisie - Kairouan), Mosquée Hassan II (Maroc - Casablanca) et Mosquée Al-Azhar (Égypte - Le Caire).",
-      "L’apprentissage de l’alphabet arabe s’enrichit : les enfants découvrent maintenant comment chaque lettre s’écrit seule, au début, au milieu et à la fin d’un mot.",
-      "L’espace Nida Kids a été entièrement réorganisé pour offrir une navigation plus claire, une progression adaptée aux enfants et accueillir toujours plus de contenus.",
-      "Les quatre premiers récits de la vie du Prophète Muhammad ﷺ sont disponibles dans Nida Kids : sa naissance, son enfance sous la protection d’Allah, sa réputation d’Al-Amîn et la sagesse de la Pierre noire."
-    ],
-    "en": [
-      "Prayer times, fine-tuned for your community: each prayer can now be adjusted individually whenever the automatic calculation needs to match your mosque’s timetable more closely. New rules also improve Fajr and Isha calculations in high-latitude regions.",
-      "Four iconic mosques join the Nida Home scenes, with an atmosphere that evolves from day to night: Djamaâ El-Djazaïr (Algeria - Algiers), Great Mosque of Kairouan (Tunisia - Kairouan), Hassan II Mosque (Morocco - Casablanca), and Al-Azhar Mosque (Egypt - Cairo).",
-      "Arabic alphabet learning goes further: children can now discover how each letter is written on its own, at the beginning, in the middle, and at the end of a word.",
-      "The Nida Kids space has been completely reorganized for clearer navigation, child-friendly progression, and plenty of room for new content.",
-      "The first four stories from the life of Prophet Muhammad ﷺ are now available in Nida Kids: his birth, his childhood under Allah’s protection, his reputation as Al-Amîn, and the wisdom of the Black Stone."
-    ],
-    "ar": [
-      "مواقيت صلاة أكثر دقة: يمكنكم الآن ضبط وقت كل صلاة على حدة عندما يحتاج الحساب التلقائي إلى توافق أدق مع مواقيت مسجدكم. كما تعمل قواعد جديدة على تحسين حساب الفجر والعشاء في المناطق الواقعة على خطوط العرض العليا.",
-      "أربعة مساجد بارزة تنضم إلى مشاهد نداء هوم بأجواء تتغير من النهار إلى الليل: جامع الجزائر (الجزائر - الجزائر العاصمة)، جامع القيروان الكبير (تونس - القيروان)، مسجد الحسن الثاني (المغرب - الدار البيضاء)، وجامع الأزهر (مصر - القاهرة).",
-      "تجربة أعمق لتعلم الحروف العربية: يمكن للأطفال الآن اكتشاف طريقة كتابة كل حرف منفردًا، وفي بداية الكلمة، ووسطها، ونهايتها.",
-      "أُعيد تنظيم مساحة نداء كيدز بالكامل لتقديم تنقل أوضح، وتدرج يناسب الأطفال، واستقبال المزيد من المحتوى.",
-      "أصبحت القصص الأربع الأولى من سيرة النبي محمد ﷺ متاحة في نداء كيدز: مولده، وطفولته في حفظ الله، ولقبه الأمين، وحكمته في قصة الحجر الأسود."
-    ],
-    "tr": [
-      "Caminizin vakitleriyle en iyi uyum için namaz saatlerini artık ayrı ayrı hassas biçimde ayarlayabilirsiniz. Yeni kurallar, yüksek enlemli bölgelerde sabah ve yatsı vakitlerinin hesaplanmasını da iyileştiriyor.",
-      "Gündüzden geceye değişen atmosferleriyle dört simge cami Nida Home manzaralarına katılıyor: Djamaâ El-Djazaïr (Cezayir - Cezayir), Kayrevan Ulu Camii (Tunus - Kayrevan), II. Hasan Camii (Fas - Kazablanka) ve El-Ezher Camii (Mısır - Kahire).",
-      "Arap alfabesi öğrenimi artık daha kapsamlı: çocuklar her harfin tek başına, kelimenin başında, ortasında ve sonunda nasıl yazıldığını keşfedebilir.",
-      "Nida Kids alanı; daha anlaşılır gezinme, çocuklara uygun bir ilerleme ve daha fazla içeriğe yer açmak için tamamen yeniden düzenlendi.",
-      "Peygamberimiz Muhammed ﷺ’in hayatından ilk dört hikâye artık Nida Kids’te: doğumu, Allah’ın korumasındaki çocukluğu, El-Emîn olarak tanınması ve Hacerülesved olayındaki hikmeti."
-    ],
-    "de": [
-      "Gebetszeiten, die genau zu Ihrer Gemeinde passen: Jede Gebetszeit kann jetzt einzeln angepasst werden, wenn die automatische Berechnung noch genauer auf den Zeitplan Ihrer Moschee abgestimmt werden soll. Neue Regeln verbessern außerdem die Berechnung von Fajr und Ischa in hohen Breitengraden.",
-      "Vier bedeutende Moscheen bereichern die Kulissen von Nida Home mit einer Atmosphäre, die sich vom Tag bis in die Nacht wandelt: Djamaâ El-Djazaïr (Algerien - Algier), Große Moschee von Kairouan (Tunesien - Kairouan), Hassan-II.-Moschee (Marokko - Casablanca) und Al-Azhar-Moschee (Ägypten - Kairo).",
-      "Das Lernen des arabischen Alphabets wird umfassender: Kinder entdecken nun, wie jeder Buchstabe allein sowie am Anfang, in der Mitte und am Ende eines Wortes geschrieben wird.",
-      "Der Bereich Nida Kids wurde vollständig neu organisiert und bietet jetzt eine klarere Navigation, kindgerechte Lernstufen und viel Platz für neue Inhalte.",
-      "Die ersten vier Erzählungen aus dem Leben des Propheten Muhammad ﷺ sind jetzt in Nida Kids verfügbar: seine Geburt, seine Kindheit unter Allahs Schutz, sein Ruf als Al-Amîn und seine Weisheit bei der Geschichte des Schwarzen Steins."
-    ]
-  }
+  "versionCode": 1203,
+  "versionName": "main-1203-9adb2ff",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1203-1/nida-home-release.apk",
+  "sha256": "e50523e923d7a3f2dc7a697e1a77d6ea2ad74f8b95142312e9d2deadb620e04d",
+  "notes": {}
 }

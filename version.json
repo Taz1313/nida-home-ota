@@ -1,7 +1,32 @@
 {
-  "versionCode": 1206,
-  "versionName": "main-1206-6a9cfe8",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1206-1/nida-home-release.apk",
-  "sha256": "738c2a8392e90f5e2e3f55dd9b052a6f1d9d5232500901eca22a451e0fac3c00",
-  "notes": {}
+  "versionCode": 1207,
+  "versionName": "main-1207-fe2fbb5",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1207-1/nida-home-release.apk",
+  "sha256": "5f73111ac03a9ec98394da751875f6bc7c4aa415e825670df255da24666a654e",
+  "notes": {
+    "fr": [
+      "La navigation dans la télécommande à distance a été améliorée. Les paramètres sont maintenant mieux organisés et plus faciles à retrouver.",
+      "Nida Kids propose désormais l’apprentissage des chiffres arabes de ٠ à ٩ : les enfants peuvent les reconnaître, les écouter et s’entraîner à les écrire."
+    ],
+    "en": [
+      "Navigation in the remote control has been improved. Settings are now better organized and easier to find.",
+      "Nida Kids now introduces Arabic digits from ٠ to ٩: children can recognize them, listen to their pronunciation, and practise writing them."
+    ],
+    "ar": [
+      "تم تحسين التنقل في جهاز التحكم عن بُعد، وأصبحت الإعدادات الآن أكثر تنظيماً وأسهل في الوصول.",
+      "يقدّم Nida Kids الآن تعلّم الأرقام العربية من ٠ إلى ٩، حيث يمكن للأطفال التعرّف عليها والاستماع إلى نطقها والتدرّب على كتابتها."
+    ],
+    "tr": [
+      "Uzaktan kumandada gezinme iyileştirildi. Ayarlar artık daha düzenli ve daha kolay bulunuyor.",
+      "Nida Kids artık ٠'dan ٩'a kadar Arapça rakamları öğretiyor. Çocuklar rakamları tanıyabilir, dinleyebilir ve yazma alıştırması yapabilir."
+    ],
+    "de": [
+      "Die Navigation in der Fernbedienung wurde verbessert. Die Einstellungen sind jetzt übersichtlicher und leichter zu finden.",
+      "Nida Kids vermittelt jetzt die arabischen Ziffern von ٠ bis ٩. Kinder können sie erkennen, anhören und das Schreiben üben."
+    ],
+    "nl": [
+      "De navigatie in de afstandsbediening is verbeterd. De instellingen zijn nu overzichtelijker en makkelijker te vinden.",
+      "Nida Kids leert kinderen nu de Arabische cijfers van ٠ tot ٩. Ze kunnen de cijfers herkennen, beluisteren en oefenen met schrijven."
+    ]
+  }
 }

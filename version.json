@@ -1,32 +1,32 @@
 {
-  "versionCode": 1204,
-  "versionName": "main-1204-b59409b",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1204-1/nida-home-release.apk",
-  "sha256": "3ab2cbc388739b906a9df08977ea7c5795b40d97657c8ba588bbff53d17c7484",
+  "versionCode": 1205,
+  "versionName": "main-1205-cead402",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1205-1/nida-home-release.apk",
+  "sha256": "6aba106842f46f30d708993e75949889aa5d7aa1f51dcd9b0cfd55e52052d4a8",
   "notes": {
     "fr": [
-      "La navigation dans la t?l?commande ? distance a ?t? am?lior?e. Les param?tres sont maintenant mieux organis?s et plus faciles ? retrouver.",
-      "Nida Kids propose d?sormais l?apprentissage des chiffres arabes de ? ? ? : les enfants peuvent les reconna?tre, les ?couter et s?entra?ner ? les ?crire."
+      "La navigation dans la télécommande à distance a été améliorée. Les paramètres sont maintenant mieux organisés et plus faciles à retrouver.",
+      "Nida Kids propose désormais l’apprentissage des chiffres arabes de ٠ à ٩ : les enfants peuvent les reconnaître, les écouter et s’entraîner à les écrire."
     ],
     "en": [
       "Navigation in the remote control has been improved. Settings are now better organized and easier to find.",
-      "Nida Kids now introduces Arabic digits from ? to ?: children can recognize them, listen to their pronunciation, and practise writing them."
+      "Nida Kids now introduces Arabic digits from ٠ to ٩: children can recognize them, listen to their pronunciation, and practise writing them."
     ],
     "ar": [
-      "?? ????? ?????? ?? ???? ?????? ?? ????? ?????? ????????? ???? ???? ??????? ????? ??????.",
-      "????? Nida Kids ???? ????? ??????? ??????? ?? ? ??? ?? ??? ???? ??????? ??????? ????? ????????? ??? ????? ???????? ??? ???????."
+      "تم تحسين التنقل في جهاز التحكم عن بُعد، وأصبحت الإعدادات الآن أكثر تنظيماً وأسهل في الوصول.",
+      "يقدّم Nida Kids الآن تعلّم الأرقام العربية من ٠ إلى ٩، حيث يمكن للأطفال التعرّف عليها والاستماع إلى نطقها والتدرّب على كتابتها."
     ],
     "tr": [
-      "Uzaktan kumandada gezinme iyile?tirildi. Ayarlar art?k daha d?zenli ve daha kolay bulunuyor.",
-      "Nida Kids art?k ?'dan ?'a kadar Arap?a rakamlar? ??retiyor. ?ocuklar rakamlar? tan?yabilir, dinleyebilir ve yazma al??t?rmas? yapabilir."
+      "Uzaktan kumandada gezinme iyileştirildi. Ayarlar artık daha düzenli ve daha kolay bulunuyor.",
+      "Nida Kids artık ٠'dan ٩'a kadar Arapça rakamları öğretiyor. Çocuklar rakamları tanıyabilir, dinleyebilir ve yazma alıştırması yapabilir."
     ],
     "de": [
-      "Die Navigation in der Fernbedienung wurde verbessert. Die Einstellungen sind jetzt ?bersichtlicher und leichter zu finden.",
-      "Nida Kids vermittelt jetzt die arabischen Ziffern von ? bis ?. Kinder k?nnen sie erkennen, anh?ren und das Schreiben ?ben."
+      "Die Navigation in der Fernbedienung wurde verbessert. Die Einstellungen sind jetzt übersichtlicher und leichter zu finden.",
+      "Nida Kids vermittelt jetzt die arabischen Ziffern von ٠ bis ٩. Kinder können sie erkennen, anhören und das Schreiben üben."
     ],
     "nl": [
       "De navigatie in de afstandsbediening is verbeterd. De instellingen zijn nu overzichtelijker en makkelijker te vinden.",
-      "Nida Kids leert kinderen nu de Arabische cijfers van ? tot ?. Ze kunnen de cijfers herkennen, beluisteren en oefenen met schrijven."
+      "Nida Kids leert kinderen nu de Arabische cijfers van ٠ tot ٩. Ze kunnen de cijfers herkennen, beluisteren en oefenen met schrijven."
     ]
   }
 }

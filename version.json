@@ -1,11 +1,11 @@
 {
-  "versionCode": 1212,
-  "versionName": "main-1212-273878b",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1212-1/nida-home-release.apk",
-  "sha256": "d9250300b3ab3f04f197d3b5c719e12e48c252f9c22fa03728cace407d52e44c",
-  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1212-1/nida-home-rescue.apk",
-  "rescueSha256": "ff85473d46b1b2c916605bf97d129f8adc4e0f115dfece0723ab9847305f632c",
-  "rescueVersionCode": 1212,
+  "versionCode": 1213,
+  "versionName": "main-1213-6819a94",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1213-1/nida-home-release.apk",
+  "sha256": "0c20e343e79b1d745d5eae5b6021628843bcf19d85c898325bf8e12dc5c8478a",
+  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1213-1/nida-home-rescue.apk",
+  "rescueSha256": "7d03e57db2f6d58642e3df42929e9fbb5eec7a626d3ef9cbdc85be82de74867d",
+  "rescueVersionCode": 1213,
   "notes": {},
   "latestNotes": {
     "fr": [

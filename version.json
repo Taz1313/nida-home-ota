@@ -1,38 +1,65 @@
 {
-  "versionCode": 1218,
-  "versionName": "main-1218-953c30c",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1218-1/nida-home-release.apk",
-  "sha256": "da062f9d40775b4e0601deca392186c84d1d2a38e78153cfd1f1db38aacc05bc",
-  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1218-1/nida-home-rescue.apk",
-  "rescueSha256": "3c597f64b241edb9a2ffa8b7684f83d93446685f5b06faf25f483ad5773dbd87",
-  "rescueVersionCode": 1218,
-  "notes": {},
-  "latestNotes": {
+  "versionCode": 1219,
+  "versionName": "main-1219-b046205",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1219-1/nida-home-release.apk",
+  "sha256": "a4d8311ed238ba5085880ca82896ebbcfdbac0c50a4cee6fe03fc325466cb4dc",
+  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1219-1/nida-home-rescue.apk",
+  "rescueSha256": "76582e8328deb8c8c35785c2d09fda815d53b622ea971c7e4f21d4f5918c8114",
+  "rescueVersionCode": 1219,
+  "notes": {
     "fr": [
-      "La navigation dans la télécommande à distance a été améliorée. Les paramètres sont maintenant mieux organisés et plus faciles à retrouver.",
-      "Nida Kids propose désormais l’apprentissage des chiffres arabes de ٠ à ٩ : les enfants peuvent les reconnaître, les écouter et s’entraîner à les écrire."
+      "Votre écran devient vraiment le vôtre : depuis la télécommande mobile, ajoutez vos propres photos, recadrez-les au format paysage et créez un diaporama au rythme de votre choix. Vos albums restent enregistrés lorsque vous repassez aux thèmes Nida Home, et les images restent stockées uniquement sur votre appareil.",
+      "Trois nouveaux univers rejoignent les décors Nida Home, chacun avec son atmosphère de jour et de nuit : Salon oriental, Alhambra et Jardin aux oliviers.",
+      "Nida Kids accueille six nouvelles capsules expliquées avec douceur : les sourates Al-Fâtiha, Al-Ikhlâs et An-Nâs, ainsi que les beaux Noms Ar-Rahmân, Al-Khâliq et As-Salâm. La narration est disponible en français et en anglais."
     ],
     "en": [
-      "Navigation in the remote control has been improved. Settings are now better organized and easier to find.",
-      "Nida Kids now introduces Arabic digits from ٠ to ٩: children can recognize them, listen to their pronunciation, and practise writing them."
+      "Make your Nida Home display feel truly personal: from the mobile remote, add your own photos, crop them for the landscape screen, and create a slideshow at the pace you prefer. Your albums stay saved when you switch back to Nida Home themes, and every image remains stored only on your device.",
+      "Three new settings join the Nida Home collection, each with its own daytime and nighttime atmosphere: Oriental Lounge, Alhambra, and Olive Garden.",
+      "Nida Kids welcomes six gentle new learning capsules: Surahs Al-Fâtiha, Al-Ikhlâs, and An-Nâs, together with the beautiful Names Ar-Rahmân, Al-Khâliq, and As-Salâm. Narration is available in French and English."
     ],
     "ar": [
-      "تم تحسين التنقل في جهاز التحكم عن بُعد، وأصبحت الإعدادات الآن أكثر تنظيماً وأسهل في الوصول.",
-      "يقدّم Nida Kids الآن تعلّم الأرقام العربية من ٠ إلى ٩، حيث يمكن للأطفال التعرّف عليها والاستماع إلى نطقها والتدرّب على كتابتها."
+      "أصبحت شاشة نداء هوم أكثر تعبيراً عنكم: من خلال جهاز التحكم على الهاتف، يمكنكم إضافة صوركم الخاصة، وقصّها لتناسب العرض الأفقي، وإنشاء عرض شرائح بسرعة تبديل تختارونها. تبقى مجموعات الصور محفوظة عند العودة إلى سمات نداء هوم، وتظل الصور مخزنة على جهازكم فقط.",
+      "تنضم ثلاثة أجواء جديدة إلى مشاهد نداء هوم، ولكل منها طابع نهاري وليلي خاص: المجلس الشرقي، وقصر الحمراء، وحديقة الزيتون.",
+      "تستقبل Nida Kids ست كبسولات تعليمية جديدة بشرح لطيف يناسب الأطفال: سور الفاتحة والإخلاص والناس، وأسماء الله الحسنى الرحمن والخالق والسلام. يتوفر السرد الصوتي بالفرنسية والإنجليزية."
     ],
     "tr": [
-      "Uzaktan kumandada gezinme iyileştirildi. Ayarlar artık daha düzenli ve daha kolay bulunuyor.",
-      "Nida Kids artık ٠'dan ٩'a kadar Arapça rakamları öğretiyor. Çocuklar rakamları tanıyabilir, dinleyebilir ve yazma alıştırması yapabilir."
+      "Nida Home ekranınızı tamamen size özel hâle getirin: telefon kumandasından kendi fotoğraflarınızı ekleyebilir, yatay ekrana uygun biçimde kırpabilir ve istediğiniz geçiş hızında bir slayt gösterisi oluşturabilirsiniz. Nida Home temalarına geri döndüğünüzde albümleriniz korunur ve tüm görseller yalnızca cihazınızda saklanır.",
+      "Nida Home manzaralarına gündüz ve gece atmosferleriyle üç yeni ortam katılıyor: Doğu tarzı salon, El Hamra Sarayı ve Zeytinli bahçe.",
+      "Nida Kids, çocuklara sevgiyle anlatılan altı yeni öğrenme kapsülü sunuyor: Fâtiha, İhlâs ve Nâs sûreleri ile Er-Rahmân, El-Hâlik ve Es-Selâm isimleri. Sesli anlatım Fransızca ve İngilizce olarak sunuluyor."
     ],
     "de": [
-      "Die Navigation in der Fernbedienung wurde verbessert. Die Einstellungen sind jetzt übersichtlicher und leichter zu finden.",
-      "Nida Kids vermittelt jetzt die arabischen Ziffern von ٠ bis ٩. Kinder können sie erkennen, anhören und das Schreiben üben."
-    ],
-    "nl": [
-      "De navigatie in de afstandsbediening is verbeterd. De instellingen zijn nu overzichtelijker en makkelijker te vinden.",
-      "Nida Kids leert kinderen nu de Arabische cijfers van ٠ tot ٩. Ze kunnen de cijfers herkennen, beluisteren en oefenen met schrijven."
+      "Gestalten Sie Ihren Nida Home Bildschirm ganz persönlich: Über die mobile Fernbedienung können Sie eigene Fotos hinzufügen, für das Querformat zuschneiden und als Diashow im gewünschten Wechselrhythmus anzeigen. Ihre Alben bleiben beim Wechsel zurück zu den Nida Home Themen erhalten, und alle Bilder werden ausschließlich auf Ihrem Gerät gespeichert.",
+      "Drei neue Kulissen bereichern Nida Home mit einer eigenen Atmosphäre für Tag und Nacht: Orientalischer Salon, Alhambra und Olivenhof.",
+      "Nida Kids bietet sechs neue, liebevoll erklärte Lernkapseln: die Suren Al-Fâtiha, Al-Ikhlâs und An-Nâs sowie die schönen Namen Ar-Rahmân, Al-Khâliq und As-Salâm. Die Erzählung ist auf Französisch und Englisch verfügbar."
     ]
   },
-  "latestNotesVersionCode": 1207,
-  "latestNotesVersionName": "main-1207-fe2fbb5"
+  "latestNotes": {
+    "fr": [
+      "Votre écran devient vraiment le vôtre : depuis la télécommande mobile, ajoutez vos propres photos, recadrez-les au format paysage et créez un diaporama au rythme de votre choix. Vos albums restent enregistrés lorsque vous repassez aux thèmes Nida Home, et les images restent stockées uniquement sur votre appareil.",
+      "Trois nouveaux univers rejoignent les décors Nida Home, chacun avec son atmosphère de jour et de nuit : Salon oriental, Alhambra et Jardin aux oliviers.",
+      "Nida Kids accueille six nouvelles capsules expliquées avec douceur : les sourates Al-Fâtiha, Al-Ikhlâs et An-Nâs, ainsi que les beaux Noms Ar-Rahmân, Al-Khâliq et As-Salâm. La narration est disponible en français et en anglais."
+    ],
+    "en": [
+      "Make your Nida Home display feel truly personal: from the mobile remote, add your own photos, crop them for the landscape screen, and create a slideshow at the pace you prefer. Your albums stay saved when you switch back to Nida Home themes, and every image remains stored only on your device.",
+      "Three new settings join the Nida Home collection, each with its own daytime and nighttime atmosphere: Oriental Lounge, Alhambra, and Olive Garden.",
+      "Nida Kids welcomes six gentle new learning capsules: Surahs Al-Fâtiha, Al-Ikhlâs, and An-Nâs, together with the beautiful Names Ar-Rahmân, Al-Khâliq, and As-Salâm. Narration is available in French and English."
+    ],
+    "ar": [
+      "أصبحت شاشة نداء هوم أكثر تعبيراً عنكم: من خلال جهاز التحكم على الهاتف، يمكنكم إضافة صوركم الخاصة، وقصّها لتناسب العرض الأفقي، وإنشاء عرض شرائح بسرعة تبديل تختارونها. تبقى مجموعات الصور محفوظة عند العودة إلى سمات نداء هوم، وتظل الصور مخزنة على جهازكم فقط.",
+      "تنضم ثلاثة أجواء جديدة إلى مشاهد نداء هوم، ولكل منها طابع نهاري وليلي خاص: المجلس الشرقي، وقصر الحمراء، وحديقة الزيتون.",
+      "تستقبل Nida Kids ست كبسولات تعليمية جديدة بشرح لطيف يناسب الأطفال: سور الفاتحة والإخلاص والناس، وأسماء الله الحسنى الرحمن والخالق والسلام. يتوفر السرد الصوتي بالفرنسية والإنجليزية."
+    ],
+    "tr": [
+      "Nida Home ekranınızı tamamen size özel hâle getirin: telefon kumandasından kendi fotoğraflarınızı ekleyebilir, yatay ekrana uygun biçimde kırpabilir ve istediğiniz geçiş hızında bir slayt gösterisi oluşturabilirsiniz. Nida Home temalarına geri döndüğünüzde albümleriniz korunur ve tüm görseller yalnızca cihazınızda saklanır.",
+      "Nida Home manzaralarına gündüz ve gece atmosferleriyle üç yeni ortam katılıyor: Doğu tarzı salon, El Hamra Sarayı ve Zeytinli bahçe.",
+      "Nida Kids, çocuklara sevgiyle anlatılan altı yeni öğrenme kapsülü sunuyor: Fâtiha, İhlâs ve Nâs sûreleri ile Er-Rahmân, El-Hâlik ve Es-Selâm isimleri. Sesli anlatım Fransızca ve İngilizce olarak sunuluyor."
+    ],
+    "de": [
+      "Gestalten Sie Ihren Nida Home Bildschirm ganz persönlich: Über die mobile Fernbedienung können Sie eigene Fotos hinzufügen, für das Querformat zuschneiden und als Diashow im gewünschten Wechselrhythmus anzeigen. Ihre Alben bleiben beim Wechsel zurück zu den Nida Home Themen erhalten, und alle Bilder werden ausschließlich auf Ihrem Gerät gespeichert.",
+      "Drei neue Kulissen bereichern Nida Home mit einer eigenen Atmosphäre für Tag und Nacht: Orientalischer Salon, Alhambra und Olivenhof.",
+      "Nida Kids bietet sechs neue, liebevoll erklärte Lernkapseln: die Suren Al-Fâtiha, Al-Ikhlâs und An-Nâs sowie die schönen Namen Ar-Rahmân, Al-Khâliq und As-Salâm. Die Erzählung ist auf Französisch und Englisch verfügbar."
+    ]
+  },
+  "latestNotesVersionCode": 1219,
+  "latestNotesVersionName": "main-1219-b046205"
 }

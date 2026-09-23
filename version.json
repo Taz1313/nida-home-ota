@@ -1,48 +1,12 @@
 {
-  "versionCode": 1240,
-  "versionName": "main-1240-ad1bab4",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1240-1/nida-home-release.apk",
-  "sha256": "3dc26a0c4621cced9763bfe95ec78c2f40219c42824c5b00a657926065f3e9a9",
-  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1240-1/nida-home-rescue.apk",
-  "rescueSha256": "bc7f9b6ca32f1b7cf5082384e0f221bf7858b59c379d152673d58e27acd63d04",
-  "rescueVersionCode": 1240,
-  "notes": {
-    "fr": [
-      "Bienvenue dans Nida ‘Ilm : cinq cours pour découvrir la lecture de l’arabe du Coran, comprendre sa prière, apprendre les ablutions, explorer les petites sourates et la prière funéraire.",
-      "Nida Kids : six nouvelles histoires à écouter en français et en anglais — la première révélation, le soutien de Khadija, les premiers croyants, l’appel à adorer Allah, la douceur du Prophète avec Anas et sa tendresse avec les enfants.",
-      "Apprenez à votre rythme dans Nida ‘Ilm, seul ou en famille : chaque profil retrouve sa progression, ses révisions et ses rappels personnalisés. Depuis votre téléphone, choisissez le profil, le cours et les étapes à afficher.",
-      "Un repère au quotidien : marquez vos prières accomplies directement sur l’accueil de votre écran Nida Home.",
-      "Votre espace Coran réunit désormais l’écoute, les lectures programmées et les récitateurs, pour retrouver vos réglages au même endroit."
-    ],
-    "en": [
-      "Welcome to Nida ‘Ilm: five courses to explore reading Quranic Arabic, understand your prayer, learn ablution, and study short surahs and the funeral prayer.",
-      "Nida Kids: six new stories to enjoy in French and English — the first revelation, Khadijah’s support, the first believers, the call to worship Allah, the Prophet’s gentleness with Anas and his kindness to children.",
-      "Learn at your own pace in Nida ‘Ilm, on your own or with your family. Each profile keeps its progress, reviews and personalised reminders. From your phone, choose a profile and a course, then navigate the steps on your display.",
-      "A little help with your daily routine: mark your prayers as completed directly from the home screen of your Nida Home display.",
-      "Your Quran space now brings listening, scheduled recitations and reciters together, so you can find your settings in one place."
-    ],
-    "ar": [
-      "مرحباً بكم في Nida ‘Ilm: خمس دورات لاكتشاف قراءة العربية القرآنية، وفهم معاني الصلاة، وتعلّم الوضوء، ودراسة السور القصيرة وصلاة الجنازة.",
-      "ست قصص جديدة في Nida Kids للاستماع بالفرنسية والإنجليزية: الوحي الأول، ومساندة خديجة، وأول المؤمنين، والدعوة إلى عبادة الله جهراً، ورفق النبي بأنس، ورحمته بالأطفال.",
-      "تعلّموا في Nida ‘Ilm بالوتيرة التي تناسبكم، بمفردكم أو مع العائلة. يحتفظ كل ملف شخصي بتقدّمه ومراجعاته وتذكيراته المخصّصة. ومن هاتفكم، اختاروا الملف والدورة وتنقّلوا بين خطوات الجلسة على شاشتكم.",
-      "لمتابعة عبادتكم اليومية، يمكنكم تحديد الصلوات التي أديتموها مباشرةً من الصفحة الرئيسية لشاشة Nida Home.",
-      "تجمع مساحة القرآن الآن الاستماع والتلاوات المجدولة وإدارة القرّاء، لتجدوا إعداداتكم في مكان واحد."
-    ],
-    "tr": [
-      "Nida ‘Ilm’e hoş geldiniz: Kur’an Arapçasını okumayı keşfetmek, namazın anlamını kavramak, abdest almayı öğrenmek, kısa sureleri ve cenaze namazını tanımak için beş kurs.",
-      "Nida Kids’te Fransızca ve İngilizce dinleyebileceğiniz altı yeni hikâye: ilk vahiy, Hatice’nin desteği, ilk Müslümanlar, Allah’a açık davet, Peygamber’in Enes’e şefkati ve çocuklara şefkati.",
-      "Nida ‘Ilm’de kendi hızınızda, tek başınıza veya ailenizle öğrenin. Her profilin ilerlemesi, tekrarları ve kişisel hatırlatmaları korunur. Telefonunuzdan profil ve kurs seçip ekranınızdaki dersin adımları arasında geçiş yapın.",
-      "Günlük ibadetlerinizi takip etmek için kıldığınız namazları doğrudan Nida Home ekranınızın ana sayfasında işaretleyin.",
-      "Kur’an alanınız artık dinlemeyi, planlanmış tilavetleri ve okuyucu yönetimini bir araya getiriyor. Ayarlarınızı tek bir yerde bulun."
-    ],
-    "de": [
-      "Willkommen bei Nida ‘Ilm: fünf Kurse zum Lesen des koranischen Arabisch, zum Verständnis des Gebets, zur Gebetswaschung, zu kurzen Suren und zum Totengebet.",
-      "Nida Kids: sechs neue Geschichten auf Französisch und Englisch — die erste Offenbarung, Khadidschas Unterstützung, die ersten Gläubigen, der Aufruf, Allah anzubeten, die Güte des Propheten zu Anas und seine Güte zu Kindern.",
-      "Lernen Sie in Nida ‘Ilm in Ihrem eigenen Tempo, allein oder mit Ihrer Familie. Jedes Profil behält seinen Lernfortschritt, seine Wiederholungen und persönlichen Erinnerungen. Wählen Sie per Telefon Profil und Kurs und wechseln Sie zwischen den Schritten auf Ihrem Bildschirm.",
-      "Eine Hilfe für den Alltag: Markieren Sie Ihre verrichteten Gebete direkt auf der Startseite Ihres Nida Home Bildschirms.",
-      "Ihr Koranbereich vereint jetzt Wiedergabe, geplante Rezitationen und die Verwaltung der Rezitatoren. So finden Sie Ihre Einstellungen an einem Ort."
-    ]
-  },
+  "versionCode": 1241,
+  "versionName": "main-1241-4e6d590",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1241-1/nida-home-release.apk",
+  "sha256": "cc3caa15a43a908db0924769f1ac218bdca06c89e58201e75e6e304e075efc50",
+  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1241-1/nida-home-rescue.apk",
+  "rescueSha256": "703ee78c889ca2fbed788d28f583cb26f403a4bb25b227b7ac405905ab189e70",
+  "rescueVersionCode": 1241,
+  "notes": {},
   "latestNotes": {
     "fr": [
       "Bienvenue dans Nida ‘Ilm : cinq cours pour découvrir la lecture de l’arabe du Coran, comprendre sa prière, apprendre les ablutions, explorer les petites sourates et la prière funéraire.",

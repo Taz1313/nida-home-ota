@@ -1,38 +1,12 @@
 {
-  "versionCode": 1242,
-  "versionName": "main-1242-ab77534",
-  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1242-1/nida-home-release.apk",
-  "sha256": "059988f7676d55fa464aaded59dac9a39ee672dca2d17a814923852c6d9fdf4c",
-  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1242-1/nida-home-rescue.apk",
-  "rescueSha256": "1bd37b371f01935ce500d5fbf4ca4f2ef5cddce2aa4bd7f749575263698601f6",
-  "rescueVersionCode": 1242,
-  "notes": {
-    "fr": [
-      "Nida ‘Ilm : des séances d’apprentissage plus complètes, avec des explications sur le sens des mots, des exercices progressifs et des références plus précises.",
-      "Nida Iqra : affichez ou masquez la phonétique lorsqu’elle est disponible. Répétez les passages pris en charge en choisissant le premier et le dernier verset, grâce à de nouvelles commandes et au clavier numérique Nida.",
-      "Heure : vous pouvez désormais laisser l’heure se régler automatiquement ou choisir de la régler manuellement."
-    ],
-    "en": [
-      "Nida ‘Ilm: more complete learning sessions, with explanations of word meanings, step-by-step exercises and more precise references.",
-      "Nida Iqra: show or hide phonetic transliteration where available. Repeat supported passages by choosing the first and last verse, using new controls and the Nida number keypad.",
-      "Time: you can now let the time adjust automatically or choose to set it manually."
-    ],
-    "ar": [
-      "Nida ‘Ilm: جلسات تعليمية أكثر اكتمالًا، مع شرح معاني الكلمات، وتمارين متدرجة، ومراجع أكثر دقة.",
-      "Nida Iqra: أظهر أو أخفِ كتابة النطق بالحروف اللاتينية عند توفرها. كرّر المقاطع المدعومة باختيار آية البداية وآية النهاية، باستخدام أدوات التحكم الجديدة ولوحة أرقام Nida.",
-      "الوقت: يمكنك الآن ترك الوقت يُضبط تلقائيًا أو اختيار ضبطه يدويًا."
-    ],
-    "tr": [
-      "Nida ‘Ilm: kelimelerin anlamlarını açıklayan, aşamalı alıştırmalar ve daha ayrıntılı kaynaklar içeren daha kapsamlı öğrenme oturumları.",
-      "Nida Iqra: mevcut olduğunda Latin harfleriyle okunuşu gösterin veya gizleyin. Yeni kontroller ve Nida sayısal tuş takımıyla başlangıç ve bitiş ayetlerini seçerek desteklenen bölümleri tekrarlayın.",
-      "Saat: artık saatin otomatik olarak ayarlanmasını sağlayabilir veya saati elle ayarlamayı seçebilirsiniz."
-    ],
-    "de": [
-      "Nida ‘Ilm: umfangreichere Lerneinheiten mit Erklärungen zur Bedeutung der Wörter, schrittweisen Übungen und genaueren Quellenangaben.",
-      "Nida Iqra: blenden Sie die Lautumschrift ein oder aus, sofern sie verfügbar ist. Wiederholen Sie unterstützte Abschnitte, indem Sie mit den neuen Bedienelementen und der Nida-Zifferntastatur den ersten und letzten Vers auswählen.",
-      "Uhrzeit: Sie können die Uhrzeit jetzt automatisch einstellen lassen oder selbst manuell einstellen."
-    ]
-  },
+  "versionCode": 1243,
+  "versionName": "main-1243-611fec4",
+  "apkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1243-1/nida-home-release.apk",
+  "sha256": "21b0186ea324f58e100fbe77458acb8a8203533c263ad7d62a7b5a2ace9a2437",
+  "rescueApkUrl": "https://github.com/Taz1313/nida-home-ota/releases/download/ota-1243-1/nida-home-rescue.apk",
+  "rescueSha256": "da987e0853df2c6c6416fc2ef0129c895ff80aaa67f2a8a46a8d873ad91b12e2",
+  "rescueVersionCode": 1243,
+  "notes": {},
   "latestNotes": {
     "fr": [
       "Nida ‘Ilm : des séances d’apprentissage plus complètes, avec des explications sur le sens des mots, des exercices progressifs et des références plus précises.",
